@@ -12,10 +12,10 @@ Tecnologias utilizadas:
 ### 
 ### 
 ### Login
-![Login](cadastro.png)
+![Login]([cadastro.png](https://user-images.githubusercontent.com/75028196/194679074-67d32588-1c8a-4196-9759-6d58e511f54f.png))
 
 ### Cadastro
-![Cadastro](https://user-images.githubusercontent.com/75028196/194679079-7d955b42-6302-4ba4-8cf5-9db63330d8f8.png)
+![Cadastro](cadastro.png)
 
 ### Perfil
 ![Educação](https://user-images.githubusercontent.com/75028196/194679086-a4c63a0e-8de3-4be5-9682-732603780f00.png)
