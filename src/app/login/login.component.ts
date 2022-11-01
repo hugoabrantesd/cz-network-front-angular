@@ -20,8 +20,8 @@ export class LoginComponent {
   constructor(
     private usuarioService: UsuarioService,
     private router: Router,) {
-    this.email = 'maria50@gmail.com';
-    this.senha = '12345678';
+    this.email = '';
+    this.senha = '';
   }
 
   login() {
