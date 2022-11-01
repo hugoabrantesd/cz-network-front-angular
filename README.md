@@ -1,27 +1,29 @@
-# CzNetwork
+# Cz Network (front-end)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+## Sobre o projeto
+O Cz Network é um projeto front-end acadêmico de uma rede social.
+O objetivo principal do sistema é fornecer uma aplicação front-end onde os usuários poderiam se cadastrar, realizar suas postagens, entre outras.
+Para isso, foi desenvolvida uma aplicação backend, disponível em: https://github.com/hugoabrantesd/cz-network
 
-## Development server
+Tecnologias utilizadas:
+- Typescript
+- Angular 14
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### 
+### 
+### Login
+![Login](cadastro.png)
 
-## Code scaffolding
+### Cadastro
+![Cadastro](https://user-images.githubusercontent.com/75028196/194679079-7d955b42-6302-4ba4-8cf5-9db63330d8f8.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Perfil
+![Educação](https://user-images.githubusercontent.com/75028196/194679086-a4c63a0e-8de3-4be5-9682-732603780f00.png)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Autores
 
-## Running unit tests
+#### Hugo Abrantes de Lira
+#### Taylson Leite
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Linkedin: https://www.linkedin.com/in/hugoabrantesd
