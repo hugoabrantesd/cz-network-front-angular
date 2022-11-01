@@ -1,0 +1,18 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.cadastroStyle {
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 600px;
+}
+
+.underline-tab {
+  /* color: yellow; */
+  background-color: none;
+  border-color: none;
+  border-bottom: 3px solid #32a84e;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+

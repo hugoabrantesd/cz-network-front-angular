@@ -1,0 +1,33 @@
+<header>
+  <app-navbar></app-navbar>
+</header>
+
+<body class="body-space">
+
+  <div class="row justify-content-center">
+    <div class="col-sm-4" *ngFor="let postagem of usuario?.postagens" style="margin-bottom: 2%;">
+      <div class="card" style="background-color: #dfddddfb;">
+
+        <div class="card-title title">
+          <img class="rounded-circle" alt="80x80" src="../assets/perfil.jpg" data-holder-rendered="true"
+            style="margin-left: 20px; margin-right: 20px; width: 55px; height: 55px;">
+
+          <label>
+            {{usuario.nomeCompleto}}
+            <br>
+            35 min atrás
+          </label>
+        </div>
+
+        <div class="card-body" style="text-align: center;">
+          <h2>{{postagem.descricao}}</h2>
+          <img src={{postagem.urlImagemPost}} alt="120x80" width="80%" height="65%" style="border-radius: 20px; ">
+
+          <app-botoes-postagem></app-botoes-postagem>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>

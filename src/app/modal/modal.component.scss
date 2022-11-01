@@ -1,0 +1,42 @@
+.title {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.space {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.form-space {
+    margin-bottom: 20px;
+}
+
+.foto-space {
+    margin-bottom: 15px;
+}
+
+.botao-wrapper {
+    display: flex;
+}
+
+.parentElement {
+    text-align: start;
+}
+
+.btn-work {
+    width: 35px;
+    height: 35px;
+    margin: 0 auto;
+    padding: 0;
+    display: inline-block;
+    line-height: 35px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.text-color {
+    color: white;
+}
